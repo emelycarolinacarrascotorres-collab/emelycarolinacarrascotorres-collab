@@ -1,58 +1,59 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0D45,50:3E5BA3,100:75CBD1&height=140&section=header&animation=twinkling" width="100%" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0D45,60:3E5BA3,100:75CBD1&height=230&section=header&text=[TU%20NOMBRE]&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity%20Student%20%C2%B7%20Blue%20Team%20%C2%B7%20SOC&descSize=18&descColor=0C0D45&descAlignY=60" width="100%" />
+# [TU NOMBRE]
 
-<a href="https://github.com/[TU_USUARIO]">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=75CBD1&center=true&vCenter=true&width=650&height=45&lines=Cybersecurity+Student+%F0%9F%94%90;Blue+Team+%C2%B7+SOC+%C2%B7+SIEM;Documenting+my+labs+in+public;Detect.+Analyze.+Document." alt="Typing animation" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=[TU_USUARIO]&color=3E5BA3&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/badge/status-learning%20in%20public-75CBD1?style=flat-square&labelColor=0C0D45" alt="status" />
-<img src="https://img.shields.io/badge/focus-defensive%20security-3E5BA3?style=flat-square&labelColor=0C0D45" alt="focus" />
+<sub>**Cybersecurity Student** · Blue Team & SOC · Learning in Public</sub>
 
 <br><br>
 
-<a href="[TU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-3E5BA3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[TU_CORREO]"><img src="https://img.shields.io/badge/Email-75CBD1?style=for-the-badge&logo=gmail&logoColor=0C0D45" /></a>
+<img src="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_USUARIO]/main/assets/terminal.svg" alt="terminal" width="720" />
+
+<br>
+
+<img src="https://img.shields.io/badge/status-learning%20in%20public-75CBD1?style=flat-square&labelColor=0C0D45" />
+<img src="https://img.shields.io/badge/focus-defensive%20security-3E5BA3?style=flat-square&labelColor=0C0D45" />
+<img src="https://komarev.com/ghpvc/?username=[TU_USUARIO]&color=3E5BA3&style=flat-square&label=VIEWS" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="100%" />
+<br>
 
-## `> whoami`
+## `whoami`
 
-```bash
-$ whoami
-[tu-usuario]
+I'm a **Cybersecurity Technology student** building my foundations from the ground up and documenting every step in public. I focus on **defensive security**: monitoring, detection, incident analysis and secure infrastructure.
 
-$ cat profile.txt
-role      : Cybersecurity Technology student
-focus     : Defensive security · Blue Team · SOC
-learning  : SIEM, network security, Windows/Linux, Python
-goal      : SOC / Blue Team analyst
-philosophy: "I only claim what I can show."
-```
+My goal is to grow from beginner to a professional-level **SOC / Blue Team analyst**. This profile is my learning log: labs, notes and projects, each with evidence and an honest status.
 
-I'm building my foundations from the ground up and documenting every step in public. This profile is my **learning log**: labs, notes and projects, each one with evidence and an honest status.
+> ✅ completed · 🔄 in progress · 📅 planned. I only claim what I can show.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="100%" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="60%" /></div>
 
-## `> security_lifecycle`
+## `stack`
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0C0D45','primaryTextColor':'#75CBD1','primaryBorderColor':'#3E5BA3','lineColor':'#75CBD1','fontFamily':'monospace'}}}%%
-flowchart LR
-    A[🔍 Detect] --> B[🧠 Analyze]
-    B --> C[📝 Document]
-    C --> D[🛡️ Improve]
-    D --> A
-```
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="100%" />
+<img src="https://img.shields.io/badge/Wazuh-3E5BA3?style=flat-square&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Sysmon-3E5BA3?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Sysinternals-3E5BA3?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/FortiGate-75CBD1?style=flat-square&logo=fortinet&logoColor=0C0D45" />
+<img src="https://img.shields.io/badge/GNS3-75CBD1?style=flat-square&logoColor=0C0D45" />
+<img src="https://img.shields.io/badge/VMware-75CBD1?style=flat-square&logo=vmware&logoColor=0C0D45" />
+<img src="https://img.shields.io/badge/Linux-3E5BA3?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Server-3E5BA3?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-75CBD1?style=flat-square&logo=python&logoColor=0C0D45" />
+<img src="https://img.shields.io/badge/Git-3E5BA3?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-75CBD1?style=flat-square&logo=github&logoColor=0C0D45" />
+<img src="https://img.shields.io/badge/Markdown-3E5BA3?style=flat-square&logo=markdown&logoColor=white" />
 
-## `> areas_of_interest`
+</div>
+
+<sub>🔄 Most of these are in learning phase. Edit this list honestly: remove anything you haven't practiced yet.</sub>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="60%" /></div>
+
+## `focus_areas`
 
 <table>
 <tr>
@@ -60,7 +61,7 @@ flowchart LR
 
 **🛡️ Defense**
 - Blue Team · SOC
-- SIEM & threat detection
+- SIEM & detection
 - Incident analysis
 
 </td>
@@ -83,38 +84,9 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="100%" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="60%" /></div>
 
-## `> tech_stack`
-
-> ✅ hands-on · 🔄 learning · 📅 planned. Edit each line honestly.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,powershell,git,github,md&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Wazuh-3E5BA3?style=for-the-badge&logo=wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/Sysmon-3E5BA3?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Sysinternals-3E5BA3?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/FortiGate-75CBD1?style=for-the-badge&logo=fortinet&logoColor=0C0D45" />
-<img src="https://img.shields.io/badge/GNS3-75CBD1?style=for-the-badge&logoColor=0C0D45" />
-<img src="https://img.shields.io/badge/VMware-75CBD1?style=for-the-badge&logo=vmware&logoColor=0C0D45" />
-
-</div>
-
-| Category | Tools | Status |
-|---|---|---|
-| Monitoring & SIEM | Wazuh, Sysmon, Sysinternals | 🔄 |
-| Networking & Firewalls | FortiGate, GNS3 | 🔄 |
-| Operating Systems | Linux, Windows Server | 🔄 |
-| Virtualization | VMware | 🔄 |
-| Programming | Python | 🔄 |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="100%" />
-
-## `> featured_projects`
+## `featured_projects`
 
 <table>
 <tr>
@@ -139,20 +111,8 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="100%" />
-
-## `> certifications_and_training`
-
-| Name | Provider | Status |
-|---|---|---|
-| [Nombre real] | [Entidad] | ✅ Completed · [año] |
-| [Nombre real] | [Entidad] | 🔄 In progress |
-| [Nombre real] | [Entidad] | 📅 Planned |
-
-> Certifications support my learning. My real evidence is in the labs.
-
 <details>
-<summary><b>🧪 Hands-on labs (click to expand)</b></summary>
+<summary><b>🧪 Hands-on labs</b></summary>
 <br>
 
 - 🔄 [Lab 1: ej. Wazuh SIEM on a VMware lab]
@@ -162,18 +122,7 @@ flowchart LR
 </details>
 
 <details>
-<summary><b>🎯 Learning goals (click to expand)</b></summary>
-<br>
-
-- [ ] Build a documented SIEM home lab with detection use cases
-- [ ] Write my first lab incident-response report
-- [ ] Automate log analysis with Python
-- [ ] [Certificación objetivo]
-
-</details>
-
-<details>
-<summary><b>📂 Repository map (click to expand)</b></summary>
+<summary><b>📂 Repository map</b></summary>
 <br>
 
 | Category | Repos |
@@ -186,42 +135,59 @@ flowchart LR
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="100%" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="60%" /></div>
 
-## `> github_activity`
+## `training`
+
+| Name | Provider | Status |
+|---|---|---|
+| [Nombre real] | [Entidad] | ✅ Completed · [año] |
+| [Nombre real] | [Entidad] | 🔄 In progress |
+| [Nombre real] | [Entidad] | 📅 Planned |
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="60%" /></div>
+
+## `activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&hide_border=false&border_color=3E5BA3&bg_color=0C0D45&title_color=75CBD1&icon_color=75CBD1&text_color=FFFFFF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&hide_border=false&border_color=3E5BA3&bg_color=0C0D45&title_color=75CBD1&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[TU_USUARIO]&bg_color=0C0D45&color=75CBD1&line=3E5BA3&point=FFFFFF&area=true&area_color=3E5BA3&hide_border=false&border_color=3E5BA3&title=Contribution%20Graph" width="100%" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=[TU_USUARIO]&border=3E5BA3&background=0C0D45&ring=75CBD1&fire=75CBD1&currStreakLabel=75CBD1&sideLabels=75CBD1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9DA7B3" />
+<img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&border_color=3E5BA3&bg_color=0C0D45&title_color=75CBD1&icon_color=75CBD1&text_color=FFFFFF" height="170" />
+<img src="https://streak-stats.demolab.com?user=[TU_USUARIO]&border=3E5BA3&background=0C0D45&ring=75CBD1&fire=75CBD1&currStreakLabel=75CBD1&sideLabels=75CBD1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9DA7B3" height="170" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[TU_USUARIO]&bg_color=0C0D45&color=75CBD1&line=3E5BA3&point=FFFFFF&area=true&area_color=3E5BA3&hide_border=true" width="100%" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/[TU_USUARIO]/[TU_USUARIO]/output/github-snake-dark.svg" alt="snake" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&border_color=3E5BA3&bg_color=0C0D45&title_color=75CBD1&text_color=FFFFFF" height="150" />
 
 </div>
 
-> Si algún widget sale roto, bórralo. Es normal que estos servicios gratuitos fallen a veces.
+<sub>Si algún widget sale roto, bórralo. Estos servicios gratuitos a veces fallan.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="100%" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="60%" /></div>
 
-## `> contact`
+## `milestones`
+
+<sub>Solo logros reales y verificables. Si aún no tienes, borra esta sección completa.</sub>
+
+- 🏅 [Logro real: ej. primer laboratorio SIEM documentado]
+- 🎓 [Logro real: ej. curso completado en ___]
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0D45,50:75CBD1,100:0C0D45&height=2" width="60%" /></div>
 
 <div align="center">
 
-**Let's connect and learn together.**
+### let's build something.
+
+<sub>[País / Ciudad] · [TU_CORREO]</sub>
+
+<br>
 
 <a href="[TU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-3E5BA3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:[TU_CORREO]"><img src="https://img.shields.io/badge/Email-75CBD1?style=for-the-badge&logo=gmail&logoColor=0C0D45" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E5BA3,100:0C0D45&height=120&section=footer&animation=twinkling" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:75CBD1,50:3E5BA3,100:0C0D45&height=120&section=footer&animation=twinkling" width="100%" />
