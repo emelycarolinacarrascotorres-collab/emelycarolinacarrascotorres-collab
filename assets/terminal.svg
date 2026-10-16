@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+  <style>
+    text { font-family: 'Courier New', monospace; font-size: 15px; }
+    .aqua { fill: #75CBD1; }
+    .blue { fill: #3E5BA3; }
+    .white { fill: #FFFFFF; }
+    .gray { fill: #9DA7B3; }
+    .l { opacity: 0; animation: show 0.4s forwards; }
+    .l1 { animation-delay: 0.3s; }
+    .l2 { animation-delay: 1.0s; }
+    .l3 { animation-delay: 1.5s; }
+    .l4 { animation-delay: 2.0s; }
+    .l5 { animation-delay: 2.5s; }
+    .l6 { animation-delay: 3.2s; }
+    @keyframes show { to { opacity: 1; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0C0D45"/>
+      <stop offset="100%" stop-color="#14185c"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="756" height="226" rx="12" fill="url(#bg)" stroke="#3E5BA3" stroke-width="2"/>
+  <rect x="2" y="2" width="756" height="34" rx="12" fill="#3E5BA3" opacity="0.35"/>
+  <circle cx="24" cy="19" r="6" fill="#75CBD1"/>
+  <circle cx="44" cy="19" r="6" fill="#3E5BA3"/>
+  <circle cx="64" cy="19" r="6" fill="#FFFFFF" opacity="0.6"/>
+  <text x="300" y="24" class="gray" style="font-size:13px">tu-usuario@lab: ~</text>
+
+  <!-- escudo ASCII -->
+  <g class="aqua">
+    <text x="40" y="80">  ______</text>
+    <text x="40" y="100"> /      \</text>
+    <text x="40" y="120">|  &gt;_    |</text>
+    <text x="40" y="140"> \      /</text>
+    <text x="40" y="160">  \____/</text>
+  </g>
+
+  <text x="220" y="70" class="l l1"><tspan class="aqua">$</tspan><tspan class="white"> whoami</tspan></text>
+  <text x="220" y="94" class="l l2 blue">tu-usuario</text>
+  <text x="220" y="124" class="l l3"><tspan class="aqua">$</tspan><tspan class="white"> cat status.txt</tspan></text>
+  <text x="220" y="148" class="l l4 white">role  : cybersecurity student</text>
+  <text x="220" y="168" class="l l5 white">focus : blue team · soc · siem</text>
+  <text x="220" y="198" class="l l6"><tspan class="aqua">&gt; system online — welcome</tspan><tspan class="aqua cursor">_</tspan></text>
+</svg>
