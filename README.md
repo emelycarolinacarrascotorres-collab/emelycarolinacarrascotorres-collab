@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=150&section=header&text=&fontSize=0" width="100%" alt="header" />
 
-<h1 align="center">[Emely Carolina Carrasco Torres]</h1>
+<h1 align="center">Emely Carolina Carrasco Torres</h1>
 
 <p align="center">
   <b>Estudiante de Tecnología en Seguridad Informática</b><br>
