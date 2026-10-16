@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=150&section=header&text=&fontSize=0" width="100%" alt="header" />
 
-<h1 align="center">[TU NOMBRE]</h1>
+<h1 align="center">[Emely Carolina Carrasco Torres]</h1>
 
 <p align="center">
   <b>Estudiante de Tecnología en Seguridad Informática</b><br>
@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[TU-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-  <a href="mailto:[TU-CORREO-PROFESIONAL]"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/emely-carrasco-999a24346]"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="mailto:[Emelycarolinacarrascotorres@gmail.com]"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Enfoque-Blue_Team-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Enfoque" />
   <img src="https://img.shields.io/badge/Estado-En_formaci%C3%B3n-30363d?style=for-the-badge&labelColor=0d1117" alt="Estado" />
 </p>
@@ -36,9 +36,9 @@
 
 Soy estudiante de **Tecnología en Seguridad Informática** y estoy construyendo mis conocimientos desde cero, con el objetivo de llegar a un nivel profesional. Este perfil es mi **bitácora técnica**: aquí documento lo que aprendo, los laboratorios que monto y cómo pongo en práctica cada concepto.
 
-Me interesa sobre todo la **ciberseguridad defensiva**: detectar, analizar y responder. No busco aparentar lo que todavía no domino; busco **mostrar evidencia real de lo que voy aprendiendo**.
+Me interesa sobre todo la **ciberseguridad defensiva**: detectar, analizar y responder.Pero tambien realizo proyecto relacionado a seguridad defensiva 
 
-> 🧪 Todos mis laboratorios se realizan en **entornos propios y autorizados** (máquinas virtuales y redes simuladas). Mi documentación es **defensiva y educativa**.
+> 🧪 Todos mis laboratorios se realizan en **entornos propios y autorizados** (máquinas virtuales y redes simuladas). 
 
 ---
 
@@ -74,11 +74,7 @@ Me interesa sobre todo la **ciberseguridad defensiva**: detectar, analizar y res
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0d1117?style=for-the-badge&logo=windows&logoColor=58a6ff)
 ![VMware](https://img.shields.io/badge/VMware-0d1117?style=for-the-badge&logo=vmware&logoColor=58a6ff)
 
-**🐍 Programación & Automatización**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)
-![Markdown](https://img.shields.io/badge/Markdown-0d1117?style=for-the-badge&logo=markdown&logoColor=58a6ff)
 
 <!-- Añade o quita insignias según lo que realmente uses. Ejemplo para añadir una:
 ![Nombre](https://img.shields.io/badge/Nombre-0d1117?style=for-the-badge&logo=slug&logoColor=58a6ff)
@@ -100,19 +96,6 @@ Busca el "slug" del icono en https://simpleicons.org -->
 
 <!-- Ajusta cada estado a tu realidad. -->
 
----
-
-## `> certifications_and_courses`
-
-| Nombre | Entidad | Estado | Credencial |
-|---|---|---|---|
-| [CURSO / CERTIFICACIÓN COMPLETADA] | [ENTIDAD] | ✅ Completado | [enlace verificable] |
-| [CURSO / RUTA EN PROGRESO] | [ENTIDAD] | 🔵 En progreso | — |
-| [CERTIFICACIÓN OBJETIVO] | [ENTIDAD] | 🟡 Planificado | — |
-
-<!-- Solo incluye ✅ si tienes certificado o credencial verificable. -->
-
----
 
 ## `> featured_projects`
 
@@ -249,8 +232,8 @@ Prácticas de redes simuladas en GNS3, con topologías documentadas.
 ## `> contact`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[TU-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[TU-CORREO-PROFESIONAL]"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/emely-carrasco-999a24346]"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:[Emelycarolinacarrscotorres@gmail.com]"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><sub><code>let's build something secure.</code></sub></p>
