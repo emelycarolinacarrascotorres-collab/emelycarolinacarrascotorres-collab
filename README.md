@@ -103,7 +103,7 @@ Busca el "slug" del icono en https://simpleicons.org -->
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Wazuh + Sysmon Home Lab
+### 📊 Blue Team
 **Estado:** 🟡 Planificado <!-- cambia a 🔵 En progreso o ✅ Completado cuando sea verdad -->
 
 Laboratorio de monitoreo defensivo: recolección y análisis de eventos de endpoints Windows con Wazuh y Sysmon.
@@ -116,7 +116,7 @@ Laboratorio de monitoreo defensivo: recolección y análisis de eventos de endpo
 
 **Evidencia:** [pendiente]
 
-[**ABRIR REPOSITORIO →**](https://github.com/TU_USUARIO/wazuh-sysmon-home-lab)
+[**ABRIR REPOSITORIO →**]([https://github.com/TU_USUARIO/wazuh-sysmon-home-lab](https://github.com/emelycarolinacarrascotorres-collab/njrat-detection-lab.git))
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +141,7 @@ Laboratorio de seguridad perimetral con FortiGate en un entorno virtual.
 <tr>
 <td width="50%" valign="top">
 
-### 🪟 Windows Server Security Lab
+### 🪟 Windows Server 
 **Estado:** 🟡 Planificado
 
 Laboratorio de administración y seguridad en Windows Server dentro de VMware.
